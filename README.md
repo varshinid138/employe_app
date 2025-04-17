@@ -110,5 +110,4 @@ lib/
 
 ---
 
-> ⚠️ Note: This app uses a mock API (`https://reqres.in`) for demonstration purposes.
 
